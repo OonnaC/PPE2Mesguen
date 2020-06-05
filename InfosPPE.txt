@@ -1,0 +1,18 @@
+﻿Bonjour
+
+Les réponses dans le texte 😊
+
+- DocId : numéro de la tournéeNuméro de la doc chronologique.
+Exemple : 1137467Doc1.xxx : doc 1 de la tournée 1137467. 
+- TypdocID : 3 lettres BCD pour Bon de commande, CQP pour chèque Palette...
+- phoID : 
+numéro de la tournéeNuméroEtapePhNuméro chronologique.
+Exemple : 1137467E1Ph1.jpg : photo 1 de l’étape 1 de la tournée 1137467. Cf Spécif détaillées.
+- trnNum : numéro de la tournée : numéro auto
+- etpID : numéro chronologique de l'étape dans la tournée. etpId = 1 à n pour chaque tournée.
+- lieuID : numéro auto.
+- vilID : code insee de la ville.
+- chfID : 4 caractères. trigramme : initiale du prénom+ initiale du nom de famille + dernière lettre du nom de famille + numéro pour différencier si plusieurs chauffeurs ont le même trigramme.
+
+Bien cordialement
+A Montfort
